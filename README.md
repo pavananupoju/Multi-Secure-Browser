@@ -1,5 +1,7 @@
 Secure Multi-Browsing App 🚀🔒
-This project is a secure multi-browsing app that prevents users from accessing harmful, unsafe, and suspicious websites. The app utilizes AI-powered real-time threat detection to block phishing sites, malware-infected pages, and other online threats, ensuring a safe browsing experience.
+
+This project is a secure multi-browsing app that prevents users from accessing harmful, unsafe, and suspicious websites. The app utilizes AI-powered real-time threat detection to block phishing sites, malware-infected pages, and other online threats,
+ensuring a safe browsing experience.
 
 🔹 Features:
 
